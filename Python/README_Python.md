@@ -1,1 +1,1 @@
-## Pasta focada em projetos de desenvolvimento em linguagem de programação Python
+## Pasta focada em Exercícios para Treino de programação na linguagem Python
