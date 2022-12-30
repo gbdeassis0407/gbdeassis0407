@@ -42,6 +42,3 @@ def Saque():
     else:
         print("Cedulas Indisponivel Para Valor")
         return Saque()
-
-
-Saque()

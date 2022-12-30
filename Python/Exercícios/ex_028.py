@@ -1,7 +1,6 @@
 from random import randint
 from time import sleep
-from colorama import Fore
-from colorama import Style
+from colorama import Fore, Style
 
 num_sort = randint(0, 5)  # Sorteira um numero de 0 a 5
 print(Fore.YELLOW + "-=-" * 15)
