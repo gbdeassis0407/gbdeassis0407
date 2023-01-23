@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Cada dia mais se desenvolvendo na área
+  ### Buscando Novas Oportunidades e Crescendo com elas
  
 <div> 
   <a href="https://www.youtube.com/channel/UCSDIqC1n1JdLS_-HQKRKRdQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
