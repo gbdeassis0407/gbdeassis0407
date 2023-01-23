@@ -1,9 +1,12 @@
 ## Bem-vindo(a) ao perfil do gbdeassis0407 😁
+### Wey, My name is Guilherme, Nice to meet you, I'm a recently graduated Computer Engineer trying to find new opportunities and a job in the area to put all my experiences and ideals into practice, I'm currently studying front-end and trying to find out more about programming web , I'm still in the learning process and new in the area, but any opportunity that comes I'm available and ready for opportunities, if you have an opportunity I'm open to talk 😁😁😁
+
+### HAVE A NICE DAY
 
  <div>
    <a href="https://github.com/gbdeassis0407">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbdeassis0407&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdeassis0407&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbdeassis0407&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdeassis0407&theme=transparent&hide_border=false&&layout=compact"/>
 
 </div>
 <div style="display: inline_block"><br>  
@@ -16,7 +19,7 @@
  
  <br>
  
-  ### Buscando Novas Oportunidades e Crescendo com elas
+  ### Searching for new oportunities and growing with them
  
 <div> 
   <a href="https://www.youtube.com/channel/UCSDIqC1n1JdLS_-HQKRKRdQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
