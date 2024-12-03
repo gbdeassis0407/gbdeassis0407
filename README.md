@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do gbdeassis0407 😁
-### Wey, My name is Guilherme, Nice to meet you, I'm a recently graduated Computer Engineer trying to find new opportunities and a job in the area to put all my experiences and ideals into practice, I'm currently studying front-end and trying to find out more about programming web , I'm still in the learning process and new in the area, but any opportunity that comes I'm available and ready for opportunities, if you have an opportunity I'm open to talk 😁😁😁
+### Hello! My name is Guilherme, and it's a pleasure to connect with you. I hold a degree in Computer Engineering and am in the final stages of completing my studies in Technology in Systems Analysis and Development. With experience in Python, C#, Kotlin, and network configuration, I have worked on projects involving AI development, mobile programming, and industrial automation. Additionally, I have expertise in hardware maintenance, customer support, and troubleshooting, demonstrating strong problem-solving skills and adaptability. I am also expanding my knowledge in front-end development and web programming, always eager to learn and contribute. If you have any opportunities, feel free to reach out—I’d love to chat! 😊
 
 ### HAVE A NICE DAY
 
