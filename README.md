@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do gbdeassis0407 😁
+## Welcome to git gbdeassis0407 😁
 ### Hello! My name is Guilherme, and it's a pleasure to connect with you. I hold a degree in Computer Engineering and am in the final stages of completing my studies in Technology in Systems Analysis and Development. With experience in Python, C#, Kotlin, and network configuration, I have worked on projects involving AI development, mobile programming, and industrial automation. Additionally, I have expertise in hardware maintenance, customer support, and troubleshooting, demonstrating strong problem-solving skills and adaptability. I am also expanding my knowledge in front-end development and web programming, always eager to learn and contribute. If you have any opportunities, feel free to reach out—I’d love to chat! 😊
 
 ### HAVE A NICE DAY
