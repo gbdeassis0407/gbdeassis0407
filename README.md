@@ -1,5 +1,5 @@
 ## Welcome to git gbdeassis0407 😁
-### Hello! My name is Guilherme, and it's a pleasure to connect with you. I hold a degree in Computer Engineering and am in the final stages of completing my studies in Technology in Systems Analysis and Development. With experience in Python, C#, Kotlin, and network configuration, I have worked on projects involving AI development, mobile programming, and industrial automation. Additionally, I have expertise in hardware maintenance, customer support, and troubleshooting, demonstrating strong problem-solving skills and adaptability. I am also expanding my knowledge in front-end development and web programming, always eager to learn and contribute. If you have any opportunities, feel free to reach out—I’d love to chat! 😊
+### Hello! Hi, I'm Guilherme, a Computer Engineering graduate looking for a Junior Developer opportunity. My primary languages ​​are Python and C#, and I also have experience with JavaScript, C++, and Kotlin. I have experience with relational (MySQL) and non-relational (NoSQL) databases. I've worked on AI projects during my time as a trainee at Samsung Academy and some systems development., feel free to reach out—I’d love to chat! 😊
 
 ### HAVE A NICE DAY
 
